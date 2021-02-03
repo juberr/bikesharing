@@ -2,7 +2,7 @@
 
 # Overview of the Analysis
 
-In the interest of creating a bike sharing program in Des Moines, Iowa, taking a data driven approach is key. The following presents data taken from New York City's Citibike program in August 2019 in the form of 7 key visualizations using Tableau.
+In the interest of creating a bike sharing program in Des Moines, Iowa, taking a data driven approach is key. The following presents data taken from New York City's Citibike program in August 2019 in the form of 7 key visualizations using Tableau. These visualizations will be used to inform and guide the decision making process when creating Des Moine's bike sharing program, and present interesting considerations for innovation.
 
 # Results
 
