@@ -24,7 +24,7 @@ A gendered view of this data suggests the same thing, as males have the highest 
 
 ![Heatmap all](https://github.com/juberr/bikesharing/blob/main/pics/heatmap%20all.png?raw=true)
 
-At an hourly level, this visualization shows Citibike usage for each day of the week. On weekends (Saturdays and Sundays), usage increases from 9am until 5pm. This suggests people like to use Citibikes as a means to go about their weekend plans! On weekdays (Monday through Friday), usage heats up from 6am-9am and then again from 5pm-7pm. This suggests on weekdays, people use Citibikes as a means for their work commute!
+At an hourly level, this visualization shows Citibike usage for each day of the week. On weekends (Saturdays and Sundays), usage increases from 9am until 5pm. This suggests people like to use Citibikes as a means to go about their weekend plans. On weekdays (Monday through Friday), usage heats up from 6am-9am and then again from 5pm-7pm. This suggests on weekdays, people use Citibikes as a means for their work commute.
 
 In a gendered view, the same trends can be seen, but more intensely for male users. This follows similar trends seen in the Trip Duration visualization.
 
@@ -34,7 +34,7 @@ In a gendered view, the same trends can be seen, but more intensely for male use
 
 ![Usertype Gender](https://github.com/juberr/bikesharing/blob/main/pics/subs%20vs%20customers.png?raw=true)
 
-This chart plots out (by gender and user type) Citibike usage for each day of the week. Between Customers, usage seems to be quite uniform throughout the week. Subscribers definitely use Citibikes more, and have a large bias towards Male users.
+This chart plots out (by gender and user type) Citibike usage for each day of the week. Between Customers, usage seems to be quite uniform throughout the week. Subscribers use Citibike more frequently, especially so for Male Subscribers.
 
 ### Usage by Birth Year
 
