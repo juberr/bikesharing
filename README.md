@@ -64,5 +64,9 @@ Lastly, the information gleaned from the Daily Usage visualizations will provide
 
 A visualization to consider with this given data set is a look at the relationship between trip duration and bike Id. This would provide key insight into whether bikes get uniform use, or some get used more than others. If the usage is not uniform, how could Des Moine predict which bikes will get used more?
 
+![Duration by bikeid](https://github.com/juberr/bikesharing/blob/main/pics/Screen%20Shot%202021-02-10%20at%205.20.38%20PM.png?raw=true)
+
 Another visualization to consider is a look at trip duration by day of the week. If trips are longer on the weekend than they are on weekdays, more bikes may need to be available at any given moment to account the amount of bikes that are currently out on a trip.
+
+![Duration by day of week](https://github.com/juberr/bikesharing/blob/main/pics/Screen%20Shot%202021-02-10%20at%205.20.08%20PM.png?raw=true)
 
